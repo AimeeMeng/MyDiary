@@ -29,3 +29,4 @@ Mutex mutex = new Mutex(true, @"Global\MutexSampleApp", out createdNew);
 * **Mutex对象**
 
     Mutex对象最好是一个静态对象，确保其存在于整个程序的生命周期中
+    确保其存在。。。
